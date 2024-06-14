@@ -2,8 +2,6 @@
 
 ### By Peter Zhao and Benson Ma
 
-Final Project developed for Annual Intro to CS 
-
 ## Overview
 
 This is a simulator for the popular game Pokemon, where a player can train, catch, and battle Pokemon. Due to the complexity of adding Pokemon, there are only two species of Pokemon in this game: Pikachu and Charmander. The player starts out with a single Pokemon and builds up their own Pokemon arsenal by training and catching. Training Pokemon are necessary in order to defeat the gym leader at the end and earn a badge. The player can move around several maps, which consist of two towns and a route with grassy areas full of Pokemon.
